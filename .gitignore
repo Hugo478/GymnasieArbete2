@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+gymproject/Intermediate/CachedAssetRegistry.bin
+gymproject/Saved/Config/CrashReportClient/UE4CC-Windows-D4D31A9846890CCDD14C20929E78E878/CrashReportClient.ini
+gymproject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+gymproject/Saved/Logs/gymproject-backup-2024.10.04-08.26.04.log
+gymproject/Saved/Logs/gymproject.log
